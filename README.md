@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kushwaha</h1>
-<h3 align="center">A passionate frontend developer from India who have knowledge of all programming languages like C++ , JAVA , JavaScript .Frontend Tech Stack : HTML , CSS , TailWind CSS , BootStrap , ReactJS
-.Looking for opportunities as as Software Engineering Intern , Frontend Developer Intern</h3>
+<h3 align="center">A passionate frontend developer from India who has knowledge of all programming languages like C++, JAVA, and JavaScript.Frontend Tech Stack: HTML, CSS, TailWind CSS, BootStrap, ReactJS</h3>
+<h5 align = "center">Looking for opportunities as a Software Engineering Intern, Frontend Developer Intern</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshim0&label=Profile%20views&color=0e75b6&style=flat" alt="niteshim0" /> </p>
 
