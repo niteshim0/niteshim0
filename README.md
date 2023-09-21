@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on MERN-Stack Ecommerce Web Application
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Node JS**
 
 - 🤝 I’m looking for help with **Open Source Contributions**
 
