@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from India with expertise in C++, JAVA, and JavaScript. My Frontend Tech Stack includes HTML, CSS, TailWind CSS, Bootstrap, and ReactJS.</h3>
 
-<h5 align="center">Open to opportunities as a Software Engineering Intern or Frontend Developer Intern</h5>
+<h5 align="center">Open to opportunities as a Software Engineering Intern or FullStack Developer Intern(MERN) or any Full-time Opportunities</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=niteshim0&label=Profile%20views&color=0e75b6&style=flat" alt="niteshim0" /> </p>
 
