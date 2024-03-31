@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kushwaha</h1>
 
-<h3 align="center">A passionate frontend developer from India with expertise in C++, JAVA, and JavaScript. My Frontend Tech Stack includes HTML, CSS, TailWind CSS, Bootstrap, and ReactJS.</h3>
+<h3 align="center">A passionate Full Stack Developer from India with expertise in various technologies including HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React.js, Next.js, Express.js, Node.js, MongoDB, C++, Java, TypeScript, Python, and core Computer Science subjects like Object-Oriented Programming, Computer Networks, Operating Systems, and Database Management Systems.</h3>
 
-<h5 align="center">Open to opportunities as a Software Engineering Intern or FullStack Developer Intern(MERN) or any Full-time Opportunities</h5>
+<h5 align="center">Open to opportunities as a Full Stack Developer , SDE or Software Engineer Intern , Frontend Developer , Backend Developer  or any related roles</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=niteshim0&label=Profile%20views&color=0e75b6&style=flat" alt="niteshim0" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niteshim0" alt="niteshim0" /></a> </p>
 
-- 🔭 I’m currently working on MERN-Stack Ecommerce Web Application
+- 🔭 I’m currently working on MERN Chat Application
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **TypeScript**
 
 - 🤝 I’m looking for help with **Open Source Contributions**
 
-- 💬 Ask me about **C++, Data Structures & Algorithms, ReactJS**
+- 💬 Ask me about **JavaScript,C++,Backend Developemt MERN , React.js**
 
-- 📫 How to reach me: [niteshim111@gmail.com](mailto:niteshim111@gmail.com)
+- 📫 How to reach me: [niteshim111@gmail.com](mailto:[niteshim111@gmail.com])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -70,5 +70,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niteshim0&show_icons=true&locale=en&layout=compact" alt="niteshim0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niteshim0&show_icons=true&locale=en" alt="niteshim0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshim0&" alt="github stats"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshim0&" alt="niteshim0" /></p>
